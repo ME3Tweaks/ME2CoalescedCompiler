@@ -1,5 +1,5 @@
 # ME2CoalescedCompiler
-Compiler and decompiler for the ME2 Coalesced.ini file format.
+Compiler and decompiler for the Mass Effect 2 Coalesced.ini file format.
 
 This program serves as a documentation reference source for how the Coalesced.ini file is built, as most sources in 2019 have disappeared.
 
